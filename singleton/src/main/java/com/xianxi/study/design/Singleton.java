@@ -9,10 +9,17 @@ package com.xianxi.study.design;
 public class Singleton {
     private static Singleton instance = new Singleton();
 
+    /**
+     * 私有构造器
+     */
     private Singleton() {
 
     }
 
+    /**
+     * 静态获得实例的方法
+     * @return
+     */
     public static Singleton getInstance() {
         return instance;
     }
