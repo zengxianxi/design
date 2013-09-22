@@ -1,4 +1,4 @@
-package com.xianxi.study.design;
+package com.xianxi.study.design.singleton;
 
 /**
  * 定义一个单例模式的类
