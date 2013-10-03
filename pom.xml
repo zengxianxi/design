@@ -16,6 +16,7 @@
         <module>observer</module>
         <module>future</module>
         <module>master_worker</module>
+        <module>producer_consumer</module>
     </modules>
     <name>design pattern</name>
     <properties>
