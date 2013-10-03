@@ -15,6 +15,7 @@
         <module>decorator</module>
         <module>observer</module>
         <module>future</module>
+        <module>master_worker</module>
     </modules>
     <name>design pattern</name>
     <properties>
