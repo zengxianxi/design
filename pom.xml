@@ -14,6 +14,7 @@
         <module>flyweight</module>
         <module>decorator</module>
         <module>observer</module>
+        <module>future</module>
     </modules>
     <name>design pattern</name>
     <properties>
